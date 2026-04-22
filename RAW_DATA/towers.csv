@@ -1,0 +1,201 @@
+tower_id,location,city,state,signal_strength,status
+TWR001,Area_1,North Paul,Karnataka,Weak,Active
+TWR002,Area_2,Suttonland,Karnataka,Weak,Inactive
+TWR003,Area_3,Port Nathaniel,Karnataka,Strong,Inactive
+TWR004,Area_4,Andreaberg,Karnataka,Weak,Inactive
+TWR005,Area_5,Wiseton,Karnataka,Medium,Active
+TWR006,Area_6,Cowanborough,Karnataka,Weak,Active
+TWR007,Area_7,Lake Kevinside,Karnataka,Medium,Active
+TWR008,Area_8,Teresamouth,Karnataka,Medium,Active
+TWR009,Area_9,Jamieburgh,Karnataka,Weak,Active
+TWR010,Area_10,South Danielletown,Karnataka,Weak,Active
+TWR011,Area_11,Anitaberg,Karnataka,Medium,Inactive
+TWR012,Area_12,Morseland,Karnataka,Medium,Active
+TWR013,Area_13,West Victoria,Karnataka,Medium,Active
+TWR014,Area_14,East Lisabury,Karnataka,Medium,Inactive
+TWR015,Area_15,Port Debra,Karnataka,Strong,Active
+TWR016,Area_16,South Jeffreyhaven,Karnataka,Medium,Inactive
+TWR017,Area_17,Riveraville,Karnataka,Medium,Active
+TWR018,Area_18,Diamondport,Karnataka,Strong,Inactive
+TWR019,Area_19,South Kenneth,Karnataka,Medium,Inactive
+TWR020,Area_20,New Joseph,Karnataka,Weak,Active
+TWR021,Area_21,Georgeshire,Karnataka,Weak,Active
+TWR022,Area_22,South Davidside,Karnataka,Strong,Inactive
+TWR023,Area_23,New Benjaminmouth,Karnataka,Strong,Active
+TWR024,Area_24,West Angela,Karnataka,Medium,Inactive
+TWR025,Area_25,Thomasmouth,Karnataka,Medium,Active
+TWR026,Area_26,New Katelyn,Karnataka,Weak,Active
+TWR027,Area_27,Sandrabury,Karnataka,Medium,Active
+TWR028,Area_28,East Anitamouth,Karnataka,Medium,Inactive
+TWR029,Area_29,Davidton,Karnataka,Weak,Inactive
+TWR030,Area_30,Patrickburgh,Karnataka,Strong,Active
+TWR031,Area_31,Kaylaberg,Karnataka,Weak,Active
+TWR032,Area_32,Port Christina,Karnataka,Strong,Inactive
+TWR033,Area_33,South Barrychester,Karnataka,Strong,Active
+TWR034,Area_34,Ballardbury,Karnataka,Strong,Inactive
+TWR035,Area_35,Tinaborough,Karnataka,Strong,Active
+TWR036,Area_36,Bobbyborough,Karnataka,Strong,Inactive
+TWR037,Area_37,Jasonberg,Karnataka,Weak,Active
+TWR038,Area_38,Port Darrenport,Karnataka,Medium,Active
+TWR039,Area_39,South Daniel,Karnataka,Weak,Active
+TWR040,Area_40,West Audreystad,Karnataka,Strong,Inactive
+TWR041,Area_41,New Scott,Karnataka,Medium,Inactive
+TWR042,Area_42,Hutchinsonside,Karnataka,Weak,Inactive
+TWR043,Area_43,West Robert,Karnataka,Medium,Inactive
+TWR044,Area_44,Austinfurt,Karnataka,Strong,Active
+TWR045,Area_45,Dominicchester,Karnataka,Strong,Inactive
+TWR046,Area_46,Porterberg,Karnataka,Weak,Active
+TWR047,Area_47,Bennettchester,Karnataka,Medium,Inactive
+TWR048,Area_48,New Suzanne,Karnataka,Strong,Active
+TWR049,Area_49,Donaldsonchester,Karnataka,Strong,Active
+TWR050,Area_50,Tiffanyton,Karnataka,Weak,Inactive
+TWR051,Area_51,West Edwardberg,Karnataka,Medium,Inactive
+TWR052,Area_52,Thomasside,Karnataka,Strong,Active
+TWR053,Area_53,Port Staceyhaven,Karnataka,Strong,Active
+TWR054,Area_54,Matthewbury,Karnataka,Weak,Active
+TWR055,Area_55,Lopezville,Karnataka,Strong,Active
+TWR056,Area_56,Lake Tommy,Karnataka,Weak,Inactive
+TWR057,Area_57,West Eric,Karnataka,Strong,Active
+TWR058,Area_58,Jocelynmouth,Karnataka,Strong,Inactive
+TWR059,Area_59,Jasonberg,Karnataka,Strong,Active
+TWR060,Area_60,South Mitchellberg,Karnataka,Strong,Inactive
+TWR061,Area_61,East Douglas,Karnataka,Medium,Active
+TWR062,Area_62,North Gloria,Karnataka,Strong,Active
+TWR063,Area_63,Robertchester,Karnataka,Weak,Inactive
+TWR064,Area_64,West Katherine,Karnataka,Medium,Inactive
+TWR065,Area_65,Lake Anthony,Karnataka,Strong,Inactive
+TWR066,Area_66,Simmonsview,Karnataka,Weak,Active
+TWR067,Area_67,Thomashaven,Karnataka,Medium,Inactive
+TWR068,Area_68,Williamsside,Karnataka,Strong,Inactive
+TWR069,Area_69,East Brian,Karnataka,Weak,Active
+TWR070,Area_70,Edgarberg,Karnataka,Medium,Active
+TWR071,Area_71,Lake Paul,Karnataka,Weak,Active
+TWR072,Area_72,Gonzalezland,Karnataka,Strong,Inactive
+TWR073,Area_73,South Tonyport,Karnataka,Weak,Inactive
+TWR074,Area_74,West Amyhaven,Karnataka,Strong,Active
+TWR075,Area_75,Brittanytown,Karnataka,Strong,Active
+TWR076,Area_76,Barbershire,Karnataka,Weak,Inactive
+TWR077,Area_77,Jenniferview,Karnataka,Medium,Active
+TWR078,Area_78,Lake Jessicaborough,Karnataka,Weak,Active
+TWR079,Area_79,Toddbury,Karnataka,Medium,Active
+TWR080,Area_80,South Hayley,Karnataka,Strong,Inactive
+TWR081,Area_81,South Lisa,Karnataka,Medium,Inactive
+TWR082,Area_82,New Amber,Karnataka,Weak,Inactive
+TWR083,Area_83,New Ashley,Karnataka,Medium,Inactive
+TWR084,Area_84,Andrewbury,Karnataka,Strong,Inactive
+TWR085,Area_85,Jenkinsbury,Karnataka,Strong,Inactive
+TWR086,Area_86,Steventon,Karnataka,Weak,Inactive
+TWR087,Area_87,Davidtown,Karnataka,Strong,Inactive
+TWR088,Area_88,New Joyburgh,Karnataka,Weak,Active
+TWR089,Area_89,Navarrobury,Karnataka,Medium,Active
+TWR090,Area_90,Mcknightberg,Karnataka,Weak,Active
+TWR091,Area_91,Brockfort,Karnataka,Weak,Active
+TWR092,Area_92,Carolynland,Karnataka,Medium,Active
+TWR093,Area_93,Traceyville,Karnataka,Medium,Inactive
+TWR094,Area_94,Port Yolanda,Karnataka,Weak,Active
+TWR095,Area_95,Markborough,Karnataka,Weak,Active
+TWR096,Area_96,Westtown,Karnataka,Strong,Active
+TWR097,Area_97,Matthewbury,Karnataka,Weak,Inactive
+TWR098,Area_98,Lake Kaitlinberg,Karnataka,Weak,Active
+TWR099,Area_99,Caseborough,Karnataka,Weak,Active
+TWR100,Area_100,Leonardburgh,Karnataka,Weak,Active
+TWR101,Area_101,West Kevinborough,Karnataka,Weak,Active
+TWR102,Area_102,Ellisborough,Karnataka,Strong,Inactive
+TWR103,Area_103,Patelfurt,Karnataka,Weak,Active
+TWR104,Area_104,New Robertshire,Karnataka,Strong,Active
+TWR105,Area_105,Cortezborough,Karnataka,Weak,Active
+TWR106,Area_106,Lake Angelicashire,Karnataka,Strong,Inactive
+TWR107,Area_107,Heidiland,Karnataka,Strong,Inactive
+TWR108,Area_108,Marksburgh,Karnataka,Weak,Active
+TWR109,Area_109,Nelsonberg,Karnataka,Strong,Inactive
+TWR110,Area_110,Erikport,Karnataka,Medium,Active
+TWR111,Area_111,West Margaret,Karnataka,Weak,Inactive
+TWR112,Area_112,West Joditown,Karnataka,Weak,Inactive
+TWR113,Area_113,Jacobville,Karnataka,Medium,Inactive
+TWR114,Area_114,Hollyborough,Karnataka,Weak,Active
+TWR115,Area_115,West Jeremychester,Karnataka,Strong,Active
+TWR116,Area_116,Lake Lauraview,Karnataka,Medium,Active
+TWR117,Area_117,Amybury,Karnataka,Strong,Inactive
+TWR118,Area_118,Mariotown,Karnataka,Strong,Active
+TWR119,Area_119,Davidfort,Karnataka,Medium,Active
+TWR120,Area_120,Muellerfurt,Karnataka,Medium,Active
+TWR121,Area_121,Cindyton,Karnataka,Strong,Active
+TWR122,Area_122,Jessicahaven,Karnataka,Strong,Active
+TWR123,Area_123,Crystalview,Karnataka,Strong,Inactive
+TWR124,Area_124,Hunterton,Karnataka,Strong,Active
+TWR125,Area_125,Keithview,Karnataka,Medium,Active
+TWR126,Area_126,Port Stephenton,Karnataka,Weak,Inactive
+TWR127,Area_127,East Amber,Karnataka,Strong,Active
+TWR128,Area_128,Saundersfort,Karnataka,Strong,Active
+TWR129,Area_129,Mallorymouth,Karnataka,Medium,Active
+TWR130,Area_130,Adrianton,Karnataka,Strong,Active
+TWR131,Area_131,West Gina,Karnataka,Weak,Active
+TWR132,Area_132,Lake Johnathan,Karnataka,Medium,Inactive
+TWR133,Area_133,Michaelside,Karnataka,Strong,Active
+TWR134,Area_134,Dawnport,Karnataka,Strong,Inactive
+TWR135,Area_135,Joshuaborough,Karnataka,Weak,Inactive
+TWR136,Area_136,Keithtown,Karnataka,Weak,Active
+TWR137,Area_137,Castroview,Karnataka,Strong,Inactive
+TWR138,Area_138,Robertbury,Karnataka,Weak,Inactive
+TWR139,Area_139,New Kevin,Karnataka,Weak,Inactive
+TWR140,Area_140,Lake Kevinmouth,Karnataka,Medium,Inactive
+TWR141,Area_141,Port Brian,Karnataka,Medium,Active
+TWR142,Area_142,North Ruthstad,Karnataka,Weak,Active
+TWR143,Area_143,Carlsonmouth,Karnataka,Medium,Inactive
+TWR144,Area_144,Elizabethchester,Karnataka,Weak,Active
+TWR145,Area_145,Liland,Karnataka,Weak,Inactive
+TWR146,Area_146,New Jordan,Karnataka,Medium,Inactive
+TWR147,Area_147,South Matthewton,Karnataka,Medium,Active
+TWR148,Area_148,Rodriguezville,Karnataka,Strong,Active
+TWR149,Area_149,Lake Davidville,Karnataka,Medium,Active
+TWR150,Area_150,Rodneyborough,Karnataka,Medium,Active
+TWR151,Area_151,Port Chelsea,Karnataka,Weak,Active
+TWR152,Area_152,Stephenmouth,Karnataka,Medium,Active
+TWR153,Area_153,Garciaton,Karnataka,Strong,Active
+TWR154,Area_154,Ortegaborough,Karnataka,Weak,Active
+TWR155,Area_155,Joneston,Karnataka,Strong,Inactive
+TWR156,Area_156,Nealstad,Karnataka,Medium,Inactive
+TWR157,Area_157,North Patrick,Karnataka,Weak,Active
+TWR158,Area_158,Jonesmouth,Karnataka,Strong,Active
+TWR159,Area_159,New Bradhaven,Karnataka,Strong,Active
+TWR160,Area_160,Gillespiefurt,Karnataka,Medium,Inactive
+TWR161,Area_161,Jonesborough,Karnataka,Strong,Inactive
+TWR162,Area_162,South Lindsey,Karnataka,Strong,Inactive
+TWR163,Area_163,Martinmouth,Karnataka,Strong,Inactive
+TWR164,Area_164,Geraldview,Karnataka,Strong,Active
+TWR165,Area_165,Shawfort,Karnataka,Strong,Active
+TWR166,Area_166,Lake Williamview,Karnataka,Weak,Inactive
+TWR167,Area_167,Chandlerville,Karnataka,Strong,Inactive
+TWR168,Area_168,West Rebeccafurt,Karnataka,Weak,Active
+TWR169,Area_169,Port Joshua,Karnataka,Medium,Inactive
+TWR170,Area_170,East Molly,Karnataka,Strong,Inactive
+TWR171,Area_171,Toniville,Karnataka,Medium,Active
+TWR172,Area_172,New Dawnfurt,Karnataka,Medium,Inactive
+TWR173,Area_173,Lisaburgh,Karnataka,Medium,Active
+TWR174,Area_174,Johnsonfurt,Karnataka,Strong,Inactive
+TWR175,Area_175,Markton,Karnataka,Medium,Active
+TWR176,Area_176,Petersonborough,Karnataka,Weak,Active
+TWR177,Area_177,Robersontown,Karnataka,Strong,Inactive
+TWR178,Area_178,Mckenzieburgh,Karnataka,Weak,Active
+TWR179,Area_179,Lake Kelseyfort,Karnataka,Weak,Active
+TWR180,Area_180,Allenhaven,Karnataka,Strong,Inactive
+TWR181,Area_181,East Sue,Karnataka,Weak,Inactive
+TWR182,Area_182,North Robert,Karnataka,Medium,Active
+TWR183,Area_183,North Erin,Karnataka,Strong,Inactive
+TWR184,Area_184,Priceborough,Karnataka,Strong,Inactive
+TWR185,Area_185,East Ana,Karnataka,Medium,Active
+TWR186,Area_186,Maryberg,Karnataka,Medium,Active
+TWR187,Area_187,Wangview,Karnataka,Medium,Inactive
+TWR188,Area_188,Port Carol,Karnataka,Weak,Inactive
+TWR189,Area_189,North Michaelport,Karnataka,Strong,Active
+TWR190,Area_190,Chanland,Karnataka,Medium,Active
+TWR191,Area_191,West Craig,Karnataka,Weak,Inactive
+TWR192,Area_192,Harriston,Karnataka,Strong,Inactive
+TWR193,Area_193,New Scotthaven,Karnataka,Strong,Inactive
+TWR194,Area_194,Liumouth,Karnataka,Strong,Active
+TWR195,Area_195,Taylorville,Karnataka,Medium,Active
+TWR196,Area_196,New Brittany,Karnataka,Strong,Inactive
+TWR197,Area_197,North Taylor,Karnataka,Medium,Active
+TWR198,Area_198,Derrickfort,Karnataka,Weak,Active
+TWR199,Area_199,Michelleburgh,Karnataka,Medium,Inactive
+TWR200,Area_200,Carlosport,Karnataka,Medium,Active
